@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Matin Asghar Pour
 
-<!--
-**matinapr/matinapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering researcher with over 8 years of experience in:
 
-Here are some ideas to get you started:
+- Neural Signal Processing
+- Machine Learning
+- Computational Neuroscience
+- EEG Analysis
+- Brain-Computer Interfaces
+- Neural Decoding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Neural Engineering
+- Computational Neuroscience
+- Machine Learning for Neural Data
+- Brain-Computer Interfaces
+- Neurotechnology
+
+## Publications
+
+- IEEE Access (2026) – Co-First Author
+- Journal of Neuroscience Methods (2021)
+
+## Technical Skills
+
+Python • MATLAB • MNE-Python • Scikit-Learn • Signal Processing • Neural Signal Analysis • Machine Learning
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/matin-asghar-pour-934995154
+Email: matin.asgharpour@gmail.com
